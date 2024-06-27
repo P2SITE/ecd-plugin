@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: 11.0.14.1 (Eclipse Adoptium)
+
+Name: plugins/org.sf.feeling.decompiler.jd_3.4.0.jar
+SHA-256-Digest: by9DhSQfvxVHbnaGcEyj85sobpr2j9v5G2kSt2IuARQ=
+
+Name: plugins/org.sf.feeling.decompiler.quiltflower_3.4.0.jar
+SHA-256-Digest: zS9G24/C+zrY665FPW1cCpCJQteuQEvHDn+fqRbx2dY=
+
+Name: content.xml.xz
+SHA-256-Digest: b/T5/6MoIphVP+SZTfcWvfTc7iWtcCxDlqljfruvGIg=
+
+Name: features/org.sf.feeling.decompiler.cfr_3.4.0.jar
+SHA-256-Digest: 13tBYUWzWkGBPfDj/v8+bUZjfo0AzFJysnAZipUYG4Y=
+
+Name: features/org.sf.feeling.decompiler.source_3.4.0.jar
+SHA-256-Digest: ngo9tNp9g95eEZZ8MSjOrDAcZBY3RndlB0bPS0RpIG4=
+
+Name: plugins/org.sf.feeling.decompiler.cfr_3.4.0.jar
+SHA-256-Digest: 5g2FMKFFPhquCTjNDEF+ZCsJgWXblEMQPFc3c7yl1aA=
+
+Name: plugins/org.sf.feeling.decompiler.source.attach_3.4.0.jar
+SHA-256-Digest: KFoWA7uZtYXsDC0srkUXLF+fdiJTeB+V08VPbbYbUw8=
+
+Name: artifacts.xml.xz
+SHA-256-Digest: z0Pxz0cWPNL9ctTWNjaYJy7XfyRzR5Ai5kQjGoxA/eQ=
+
+Name: features/org.sf.feeling.decompiler.quiltflower_3.4.0.jar
+SHA-256-Digest: kAZvG9QPbELJ5R3d1v5Y5C5iKblMFvZ0AgwtqS8nw1w=
+
+Name: features/org.sf.feeling.decompiler_3.4.0.jar
+SHA-256-Digest: W/2yiVnbAE/md/hT2rewnkk7BYCuT2bccrBoEBBmjZU=
+
+Name: features/org.sf.feeling.decompiler.jd_3.4.0.jar
+SHA-256-Digest: azCe6UrmqQv8vxcqGNilZiFw88g6VDvNNinBerJ1+XQ=
+
+Name: artifacts.jar
+SHA-256-Digest: o0eate6nM2H9FDLDV3jyrx3+iTzxihdfARmFsL4QoJ4=
+
+Name: p2.index
+SHA-256-Digest: tXX9B0K9BSUDn4/Qkb9HA+fL/vrB3NSsD14Dx23+lu0=
+
+Name: plugins/org.sf.feeling.decompiler.procyon_3.4.0.jar
+SHA-256-Digest: yeI9TFhophVKDFQfM0anSen7Vq59BYjxOAPiT86En9U=
+
+Name: plugins/org.sf.feeling.decompiler_3.4.0.jar
+SHA-256-Digest: Tae02rmdTsGWievMP/nBKM5rFZiHxM8O7tFoZ/9jQX0=
+
+Name: content.jar
+SHA-256-Digest: MywAJR69Od0m5vmJRmvKksZhqvZa0yqYHLXqiJyBuL0=
+
+Name: features/org.sf.feeling.decompiler.procyon_3.4.0.jar
+SHA-256-Digest: 3P7ICjBgEjxYiraLb7tGt2T+gn+46QRfBGLMgqRGsuw=
+

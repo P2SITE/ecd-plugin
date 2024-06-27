@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='ecd-plugin Composite Repository' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.atomic.composite.loading' value='true'/>
+  </properties>
+  <children size='7'>
+    <child location='3.0.0'/>
+    <child location='3.1.0'/>
+    <child location='3.1.1'/>
+    <child location='3.3.0'/>
+    <child location='3.4.0'/>
+    <child location='3.5.0/unsigned'/>
+    <child location='3.5.1/unsigned'/>
+  </children>
+</repository>

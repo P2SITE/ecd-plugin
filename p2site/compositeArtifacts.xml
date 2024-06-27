@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeArtifactRepository version='1.0.0'?>
+<repository name='ecd-plugin Composite Repository' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+    <properties size='0'>
+    </properties>
+    <children size='7'>
+      <child location='3.0.0'/>
+      <child location='3.1.0'/>
+      <child location='3.1.1'/>
+      <child location='3.3.0'/>
+      <child location='3.4.0'/>
+      <child location='3.5.0/unsigned'/>
+      <child location='3.5.1/unsigned'/>
+    </children>
+</repository>

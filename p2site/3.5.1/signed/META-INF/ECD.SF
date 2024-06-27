@@ -1,0 +1,57 @@
+Signature-Version: 1.0
+Created-By: 17.0.11 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: nngtpx2cklhBF9b5Mks5+KxmiaOc0JvAk9OQ152FrW8=
+SHA-256-Digest-Manifest-Main-Attributes: zV9g3n44jzEK9mGrFnoFUfU2iiH6iEl
+ B+jdRXeaAX+E=
+
+Name: plugins/org.sf.feeling.decompiler_3.5.1.jar
+SHA-256-Digest: BLtGzPlOacp1jtAtL250AyO6oQ6H+pFNWEhO1jEAaVE=
+
+Name: content.xml.xz
+SHA-256-Digest: 11AMrdcJt7BggPQ8ZsFEcA6ijj8bq/GsU7W2WRiwk94=
+
+Name: features/org.sf.feeling.decompiler.jd_3.5.1.jar
+SHA-256-Digest: 4sJvHJ3JyHspjp5ZTdMCqn1yuS2EBNztC8hQrw6a3bE=
+
+Name: plugins/org.sf.feeling.decompiler.vineflower_3.5.1.jar
+SHA-256-Digest: PO3wsPX5mGaObHLyWh/v1B3GihXjOi1iBccUWo3qUW8=
+
+Name: plugins/org.sf.feeling.decompiler.procyon_3.5.1.jar
+SHA-256-Digest: 5VzHIJE7PGl4aREeEz+EvaDlooeHlQt2mf1aaLyLOFU=
+
+Name: artifacts.xml.xz
+SHA-256-Digest: 28v/mfB8uA2bctQSjZ18BKwkB8z75MhjSGvzid3eKws=
+
+Name: features/org.sf.feeling.decompiler.cfr_3.5.1.jar
+SHA-256-Digest: kAecpFXL2GDGyDZ/PhaMH4tTcXiWGzOLqLj6jj0p+Xs=
+
+Name: plugins/org.sf.feeling.decompiler.cfr_3.5.1.jar
+SHA-256-Digest: Vo832BGIAvlfqo4XqbxJqk+DwOcaDjGYC1R0djuyXzU=
+
+Name: plugins/org.sf.feeling.decompiler.jd_3.5.1.jar
+SHA-256-Digest: dmEAoN7gcOGF2+cWrC+LGAznNWOkI6pMG9Bg3KIUE9U=
+
+Name: features/org.sf.feeling.decompiler.fernflower_3.5.1.jar
+SHA-256-Digest: PGlN9UUcQZwNQpr5IlteLiyNAlqELjVwcDPqe3wIl3s=
+
+Name: artifacts.jar
+SHA-256-Digest: dHjlvB5jLuqEWoGxBKb0tSpMFd20CvkpfvmaDwbK7Zk=
+
+Name: p2.index
+SHA-256-Digest: mYG7yP54wEFlMCV/7yZf6tCzeB1/2l6QQkfH7FsPlOs=
+
+Name: features/org.sf.feeling.decompiler.procyon_3.5.1.jar
+SHA-256-Digest: IN2wJFbrSy1wMb8xScD/fbfdMYFZVQCc9ax9/Nw2d20=
+
+Name: features/org.sf.feeling.decompiler_3.5.1.jar
+SHA-256-Digest: WFLRH+H434iXef+SufaL5gdud+LdT642EVssO2+MnEo=
+
+Name: content.jar
+SHA-256-Digest: m9Yg1MyuqZJTshbRDXLzZ307NaDjo531WKuOR/vAcsA=
+
+Name: features/org.sf.feeling.decompiler.vineflower_3.5.1.jar
+SHA-256-Digest: 8Ac41N6gKc0u/eFGJ4Qze7Mp5lxrtk3SszZdpWmjiKs=
+
+Name: plugins/org.sf.feeling.decompiler.fernflower_3.5.1.jar
+SHA-256-Digest: 09Y3h3OMYL8uAKQlArEVLBCGf9+AqLrrqGUqa9oIhdw=
+
